@@ -1,0 +1,228 @@
+/*Base Element CSS*/
+
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: #007FFF;
+}
+table {
+	margin: 0 auto;
+}
+td {
+	width: 120px;
+	padding: 10px 10px;
+}
+aside {
+	background-color: antiquewhite;
+	float: right;
+	width: 450px;
+}
+p {
+	padding-right: 40px;
+	padding-left: 40px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+footer {
+	width: 70%;
+	margin: 0 auto;
+	/*align-content: center;	*/
+	color: white;
+	overflow: hidden;
+	background-color: #007FFF;
+}
+form {
+	width: 600px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+/*Class Base CSS*/
+
+.btn {
+	border: none;
+	color: white;
+	padding: 14px 28px;
+	cursor: pointer;
+}
+.sec_datos_personales {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: wheat;
+	padding-top: 30px;
+}
+.subsection {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: moccasin;
+}
+.perfil {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: wheat;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.site_footer {
+	width: 70%;
+	margin: 0 auto;
+}
+.sec_educacion {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: antiquewhite;
+	padding-top: 25px;
+}
+.sec_experiencia {
+	width: 70%;
+	margin: 0 auto;
+	align-content: center;
+	background-color: antiquewhite;
+	padding-top: 25px;
+}
+.form-group {
+	padding-top: 5px;
+}
+.agregar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.experLabel {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-decoration: underline;
+	text-shadow: 1px 1px #000000;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.wrapper {
+	display: flex;
+}
+.blocka {
+	width: 20%;
+}
+.blockb {
+	width: 50%;
+}
+.blockc {
+	width: 30%;
+}
+.blockd {
+	width: 40%;
+}
+.blocke {
+	width: 40%;
+}
+.blockf {
+	width: 40%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.blockg {
+	width: 50%;
+	margin-top: 20px;
+	float: right;
+}
+.fa.icon-white {
+	color: white;
+}
+
+/*ID Based CSS*/
+
+#section_header {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-decoration: underline;
+	text-shadow: 1px 1px #000000;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#edu {
+	width: 700px;
+	margin: 0 auto;
+}
+#datos {
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 40px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+#datos_personales {
+	width: 80%;
+}
+#personal_image {
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+#corporate_logo {
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+#section_header {
+	padding-top: 40px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 40px;
+}
+#vidMB {
+	display: block;
+	margin: 0 auto;
+}
+#soundGB {
+	display: block;
+	margin: 0 auto;
+}
+#header1 {
+	float: left;
+}
+#header2 {
+	float: left;
+}
+#header3 {
+	float: right;
+}
+#title1 {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-size: 45px;
+	text-shadow: 2px 2px #000000;
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin: right: 40px;
+}
+#sub_title1 {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	text-shadow: 2px 2px #000000;
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin: right: 40px;
+}
+
